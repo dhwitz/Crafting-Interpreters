@@ -80,7 +80,7 @@ class Scanner {
               break;
             }
             advance();
-          }`
+          }
         } else {
           addToken(SLASH);
         }
